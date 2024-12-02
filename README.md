@@ -23,21 +23,18 @@ Data Sources :
 
 On top of that, I created an 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝘃𝗶𝗲𝘄, which compiled all the important metrics for the stakeholders to get a quick view of the company’s overall performance.
 
-Skills Learned :
-Data modeling
-Calculated columns and DAX measures
-Compelling visualization techniques
-Data interpretation
-Dashboard design principles
-User-centric design
-Stakeholder communication
-Data Cleaning
-Bookmarks
-Custom Tooltip usage
-Dynamic Title Creation
-Data integration from various sources like Excel/CSV files, MySQL database, etc.
+# 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 𝗟𝗲𝗮𝗿𝗻𝗲𝗱
 
-Tools Used:
+⚙️ Building measures using DAX
+🗂️ Data modeling
+📑 Using bookmarks for visual switching
+🔄 Dynamic titles based on applied filters
+📈 Utilizing KPI indicators
+☁️ BI services
+🔄 Setting up a personal gateway for auto-refresh of data
+🤝 Collaboration, workspace management, and access permissions in Power BI services
+
+# Tools Used:
 Power BI Desktop
 Power BI Service
 MySQL
@@ -46,7 +43,7 @@ DAX studio (to reduce file size)
 Excel
 Project Charter file
 
-Business Terms Learned:
+# Business Terms Learned:
 Gross Margin
 Gross Margin %
 Gross Sales
@@ -64,3 +61,9 @@ Direct
 Retailer
 Consumer
 Distributors
+
+# 𝗥𝗲𝘀𝘂𝗹𝘁
+• Tailored solutions for each Department.
+• Seamless integration from Excel, CSV, and MySQL sources.
+• Engaging charts and visuals for enhanced data comprehension.
+• Achieved a 5% increase in report efficiency.
