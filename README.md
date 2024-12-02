@@ -6,7 +6,8 @@ This project features an in-depth Power BI dashboard designed to analyze and vis
 
 𝗟𝗶𝘃𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱: https://lnkd.in/g5wdWQw9
 
-Data Sources :
+# Data Sources :
+
 1.Excel/CSV Files: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
 
 2.MySQL Database: Essential facts and dimensions for all departments are pulled from a MySQL database.
@@ -19,7 +20,7 @@ Data Sources :
 
 𝗜𝗻 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝘃𝗶𝗲𝘄, I showed net profit percentages for various products and regions
 
-𝗜𝗻 𝗦𝘂𝗽𝗽𝗹𝘆 𝗖𝗵𝗮𝗶𝗻 𝘃𝗶𝗲𝘄, we focused on tracking key KPIs like forecast accuracy and performing absolute error analysis to identify gaps in supply chain operations 
+𝗜𝗻 𝗦𝘂𝗽𝗽𝗹𝘆 𝗖𝗵𝗮𝗶𝗻 𝘃𝗶𝗲𝘄, I focused on tracking key KPIs like forecast accuracy and performing absolute error analysis to identify gaps in supply chain operations 
 
 On top of that, I created an 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝘃𝗶𝗲𝘄, which compiled all the important metrics for the stakeholders to get a quick view of the company’s overall performance.
 
