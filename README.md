@@ -36,32 +36,33 @@ On top of that, I created an 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝘃𝗶𝗲�
 🤝 Collaboration, workspace management, and access permissions in Power BI services
 
 # Tools Used:
-Power BI Desktop
-Power BI Service
-MySQL
-DAX and M language
-DAX studio (to reduce file size)
-Excel
-Project Charter file
+
+• Power BI Desktop
+• Power BI Service
+• MySQL
+• DAX and M language
+• DAX studio (to reduce file size)
+• Excel
+• Project Charter file
 
 # Business Terms Learned:
-Gross Margin
-Gross Margin %
-Gross Sales
-Gross Sales %
-Pre-invoice deductions
-Post-invoice deductions
-Net sales
-Net Invoice Sales
-Net Profit
-Net Profit %
-COGS (cost of goods sold)
-YTG (year to go)
-YTD (year to date)
-Direct
-Retailer
-Consumer
-Distributors
+• Gross Margin
+• Gross Margin %
+• Gross Sales
+• Gross Sales %
+• Pre-invoice deductions
+• Post-invoice deductions
+• Net sales
+• Net Invoice Sales
+• Net Profit
+• Net Profit %
+• COGS (cost of goods sold)
+• YTG (year to go)
+• YTD (year to date)
+• Direct
+• Retailer
+• Consumer
+• Distributors
 
 # 𝗥𝗲𝘀𝘂𝗹𝘁
 • Tailored solutions for each Department.
