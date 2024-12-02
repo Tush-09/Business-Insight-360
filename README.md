@@ -12,7 +12,7 @@ This project features an in-depth Power BI dashboard designed to analyze and vis
 
 2.MySQL Database: Essential facts and dimensions for all departments are pulled from a MySQL database.
 
-𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
+# Dashbaord Features:
 
 𝗙𝗼𝗿 𝗙𝗶𝗻𝗮𝗻𝗰𝗲, I built a Profit and Loss statement to track financial performance across various markets and customer segments.
 
@@ -24,7 +24,7 @@ This project features an in-depth Power BI dashboard designed to analyze and vis
 
 On top of that, I created an 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝘃𝗶𝗲𝘄, which compiled all the important metrics for the stakeholders to get a quick view of the company’s overall performance.
 
-# 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 𝗟𝗲𝗮𝗿𝗻𝗲𝗱
+# Power BI Technique learned:
 
 ⚙️ Building measures using DAX
 🗂️ Data modeling
